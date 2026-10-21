@@ -1,0 +1,5 @@
+title: Poopify
+description: Legal documents of the Poopify app
+theme: jekyll-theme-primer
+exclude:
+  - README.md
