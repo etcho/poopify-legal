@@ -9,7 +9,18 @@ Public legal documents of the Poopify app, published with GitHub Pages at https:
 | https://etcho.github.io/poopify-legal/delete-account/ | `delete-account/index.md` (the account deletion link required by Google Play) |
 | https://etcho.github.io/poopify-legal/consumer-health-data/ | `consumer-health-data/index.md` (same text as Section 12, as a separate page) |
 
-English is the source language. Translations are managed in Crowdin.
+English is the source language. The translations are written and kept in this repository only; the legal texts are **not** sent to Crowdin (no outside contributions to legal texts).
+
+## Translations
+
+Each app language has its own folder named with the Crowdin language code (`pt-BR/`, `es-ES/`, `fr/`, `it/`, `de/`, `nl/`, `pl/`, `cs/`, `sv-SE/`, `ru/`, `uk/`, `he/`, `hi/`, `ja/`, `ko/`, `zh-CN/`, `zh-TW/`) with the same four pages, published at `/<lang>/privacy-policy/` and so on. Section 12 of each translated privacy policy comes from `_includes/<lang>/consumer-health-data.md`.
+
+- Every translated page starts with a notice that the English version prevails, linking to it.
+- Menu names and buttons quoted in the texts must match the app's strings in that language (`www/lang/<lang>.js` in the app repository).
+- Links inside a translation point to the pages in the same language. Archived versions (`/1.0/`) exist only in English, so links to previous versions point to the English archive.
+- Hebrew pages wrap the content in `<div dir="rtl" markdown="1">`.
+- The current English pages start with `{% include languages.md page="..." %}`, a bar linking to the same document in every language, and the home page (`index.md`) has a table with every language. When adding a language, add it to both.
+- When a new English version is published, update every translation (Version, Effective date, Version history) in the same commit, so a language never shows an outdated text as current.
 
 ## Publishing a new version
 
@@ -20,4 +31,4 @@ Every published version has its own permanent page (`privacy-policy/1.0/`, `term
 3. Version numbers are `major.minor`:
    - **minor** (1.0 → 1.1): wording, clarifications, nothing that changes what data is processed or why. The app asks nothing from the user.
    - **major** (1.x → 2.0): material changes. Update `CloudSync.CONSENT` in the app: users who sync see the consent screen again and sync pauses until they accept.
-4. Send the new English text to Crowdin and publish the translations (see the translation workflow in the app repository).
+4. Update every translation in this repository in the same commit (see Translations above).

@@ -1,0 +1,9 @@
+Dieser Abschnitt ist unsere Datenschutzerklärung für Verbrauchergesundheitsdaten. Sie ist auch als eigene Seite verfügbar unter [https://etcho.github.io/poopify-legal/de/consumer-health-data/](https://etcho.github.io/poopify-legal/de/consumer-health-data/).
+
+- **Verbrauchergesundheitsdaten, die wir erheben:** nur wenn Sie die Cloud-Synchronisierung einschalten: die in Abschnitt 2 beschriebenen Gesundheitsdaten (Stuhlgänge, Symptome, Schmerzen, Notizen zu Medikamenten und Essen, Angaben zum Menstruationszyklus, Notizen), ohne Standortdaten. Aus den Analysekennungen (Abschnitt 5) ließe sich außerdem ableiten, dass Sie eine gesundheitsbezogene App nutzen.
+- **Zweck:** Ihre Einträge zwischen Ihren Geräten speichern und synchronisieren und sie wiederherstellen, wie von Ihnen gewünscht.
+- **Herkunft:** direkt von Ihnen, über die App.
+- **Weitergabe:** Wir geben Verbrauchergesundheitsdaten nicht an Dritte oder verbundene Unternehmen weiter. Sie werden nur von unserem Auftragsverarbeiter Google Cloud verarbeitet, um den Dienst zu hosten.
+- **Einwilligung:** Wir erheben Verbrauchergesundheitsdaten nur mit Ihrer gesonderten, ausdrücklichen Einwilligung, die Sie in der App erteilen, bevor die Cloud-Synchronisierung eingeschaltet wird. Sie können sie jederzeit widerrufen.
+- **Ihre Rechte:** Bestätigung, ob wir Ihre Verbrauchergesundheitsdaten verarbeiten, Auskunft darüber, Erhalt der Liste aller Dritten und verbundenen Unternehmen, an die sie weitergegeben wurden (keine), Löschung und Widerruf der Einwilligung. Üben Sie sie in der App aus (Abschnitt 9.1) oder per E-Mail an poopify.dev@gmail.com. Sie können gegen jede Entscheidung Einspruch einlegen, indem Sie auf unsere Antwort antworten; wird der Einspruch abgelehnt, können Sie sich an den Generalstaatsanwalt (Attorney General) Ihres Bundesstaats wenden.
+- **Wir verkaufen nie Verbrauchergesundheitsdaten.**

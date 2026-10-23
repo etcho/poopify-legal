@@ -1,0 +1,9 @@
+Cette section constitue notre Politique de confidentialité des données de santé des consommateurs. Elle est aussi disponible sous forme de page distincte sur [https://etcho.github.io/poopify-legal/fr/consumer-health-data/](https://etcho.github.io/poopify-legal/fr/consumer-health-data/).
+
+- **Données de santé des consommateurs que nous collectons :** uniquement si vous activez la Synchronisation cloud : les données de santé décrites à la Section 2 (selles, symptômes, douleur, notes sur les médicaments et l'alimentation, informations sur le cycle menstruel, notes), à l'exception des données de localisation. Il est aussi possible de déduire, à partir des identifiants d'analyse (Section 5), que vous utilisez une application liée à la santé.
+- **Finalité :** stocker et synchroniser vos enregistrements entre vos appareils et les restaurer, à votre demande.
+- **Source :** directement auprès de vous, via l'Application.
+- **Partage :** nous ne partageons pas de données de santé des consommateurs avec des tiers ou des sociétés affiliées. Elles sont traitées uniquement par notre sous-traitant, Google Cloud, pour héberger le service.
+- **Consentement :** nous collectons des données de santé des consommateurs uniquement avec votre consentement distinct et explicite, donné dans l'Application avant l'activation de la Synchronisation cloud. Vous pouvez le révoquer à tout moment.
+- **Vos droits :** confirmer si nous traitons vos données de santé des consommateurs, y accéder, obtenir la liste de tous les tiers et sociétés affiliées avec lesquels elles ont été partagées (aucun), les supprimer et retirer votre consentement. Exercez-les dans l'Application (Section 9.1) ou en écrivant à poopify.dev@gmail.com. Vous pouvez faire appel de toute décision en répondant à notre réponse ; si l'appel est rejeté, vous pouvez contacter le procureur général (Attorney General) de votre État.
+- **Nous ne vendons jamais de données de santé des consommateurs.**

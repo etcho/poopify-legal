@@ -4,6 +4,8 @@ title: "Privacy Policy"
 permalink: /privacy-policy/
 ---
 
+{% include languages.md page="privacy-policy" %}
+
 # Poopify - Privacy Policy
 
 **Effective date:** October 21, 2026

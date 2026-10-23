@@ -4,6 +4,8 @@ title: "Delete your Cloud Sync account"
 permalink: /delete-account/
 ---
 
+{% include languages.md page="delete-account" %}
+
 # Poopify - Delete your Cloud Sync account and data
 
 **App:** Poopify (Android) · **Developer:** Everton Carvalho Leite

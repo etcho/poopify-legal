@@ -4,6 +4,8 @@ title: "Terms of Use"
 permalink: /terms-of-use/
 ---
 
+{% include languages.md page="terms-of-use" %}
+
 # Poopify - Terms of Use
 
 **Effective date:** October 21, 2026

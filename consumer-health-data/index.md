@@ -4,6 +4,8 @@ title: "Consumer Health Data Privacy Policy"
 permalink: /consumer-health-data/
 ---
 
+{% include languages.md page="consumer-health-data" %}
+
 # Poopify - Consumer Health Data Privacy Policy
 
 **Effective date:** October 21, 2026
